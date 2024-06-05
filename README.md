@@ -1,0 +1,1 @@
+López-Lopera, A. F., Bachoc, F., Durrande, N., & Roustant, O. (2018). Finite-Dimensional Gaussian Approximation with Linear Inequality Constraints. In SIAM/ASA Journal on Uncertainty Quantification (Vol. 6, Issue 3, pp. 1224–1255). Society for Industrial & Applied Mathematics (SIAM). https://doi.org/10.1137/17m1153157
